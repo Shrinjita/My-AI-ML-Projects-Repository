@@ -1,4 +1,4 @@
-# 🚀 AI & ML Portfolio – Shrinjita Paul  
+# 🚀 GEN AI & ML Portfolio – Shrinjita Paul  
 
 Welcome to my **AI/ML Portfolio**, where I showcase hands-on projects in **Generative AI, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and deep learning applications**. This repository highlights my expertise in building and fine-tuning **state-of-the-art AI models** using **PyTorch, LangChain, Hugging Face, and TensorFlow**.  
 
